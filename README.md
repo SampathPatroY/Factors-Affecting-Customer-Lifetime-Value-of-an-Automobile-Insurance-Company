@@ -1,11 +1,11 @@
 # Factors-Affecting-Customer-Lifetime-Value-of-an-Automobile-Insurance-Company
-Overview
-This project develops a predictive model for Customer Lifetime Value (CLV) in the auto insurance sector using linear regression analysis. It incorporates factors such as number of policies, monthly premium, total claim amount, number of open complaints, and marital status to forecast CLV accurately.
+#Overview
+#This project develops a predictive model for Customer Lifetime Value (CLV) in the auto insurance sector using linear regression analysis. It incorporates factors such as number of policies, monthly premium, total claim amount, number of open complaints, and marital status to forecast CLV accurately.
 
-Data Source
-UCI ML Repository dataset from Kaggle, containing customer information from 5 American states.
+#Data Source
+#UCI ML Repository dataset from Kaggle, containing customer information from 5 American states.
 
-Methodology
+#Methodology
 Data Analysis
 Exploratory Data Analysis (EDA) on key variables
 Correlation analysis
